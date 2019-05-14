@@ -498,3 +498,15 @@ neg/neg-496.pgm
 neg/neg-497.pgm
 neg/neg-498.pgm
 neg/neg-499.pgm
+neg/neg-500.png
+neg/neg-501.png
+neg/neg-502.png
+neg/neg-503.png
+neg/neg-504.png
+neg/neg-505.png
+neg/neg-506.png
+neg/neg-507.png
+neg/neg-508.png
+neg/neg-509.png
+neg/neg-510.png
+neg/neg-511.png
